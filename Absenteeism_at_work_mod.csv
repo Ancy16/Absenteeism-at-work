@@ -1,0 +1,741 @@
+ID,Reason for absence,Month of absence,Day of the week,Seasons,Transportation expense,Distance from Residence to Work,Service time,Age,Work load Average/day ,Hit target,Disciplinary failure,Education,Son,Social drinker,Social smoker,Pet,Weight,Height,Body mass index,Absenteeism time in hours
+11,26,7,Tuesday,Summer,289,36,13,33,"2,39,554",97,no,high school,2,yes,no,1,90,172,30,4
+36,0,7,Tuesday,Summer,118,13,18,50,"2,39,554",97,yes,high school,1,yes,no,0,98,178,31,0
+3,23,7,Wednesday,Summer,179,51,18,38,"2,39,554",97,no,high school,0,yes,no,0,89,170,31,2
+7,7,7,Thursday,Summer,279,5,14,39,"2,39,554",97,no,high school,2,yes,yes,0,68,168,24,4
+11,23,7,Thursday,Summer,289,36,13,33,"2,39,554",97,no,high school,2,yes,no,1,90,172,30,2
+3,23,7,Friday,Summer,179,51,18,38,"2,39,554",97,no,high school,0,yes,no,0,89,170,31,2
+10,22,7,Friday,Summer,361,52,3,28,"2,39,554",97,no,high school,1,yes,no,4,80,172,27,8
+20,23,7,Friday,Summer,260,50,11,36,"2,39,554",97,no,high school,4,yes,no,0,65,168,23,4
+14,19,7,Monday,Summer,155,12,14,34,"2,39,554",97,no,high school,2,yes,no,0,95,196,25,40
+1,22,7,Monday,Summer,235,11,14,37,"2,39,554",97,no,postgraduate,1,no,no,1,88,172,29,8
+20,1,7,Monday,Summer,260,50,11,36,"2,39,554",97,no,high school,4,yes,no,0,65,168,23,8
+20,1,7,Tuesday,Summer,260,50,11,36,"2,39,554",97,no,high school,4,yes,no,0,65,168,23,8
+20,11,7,Wednesday,Summer,260,50,11,36,"2,39,554",97,no,high school,4,yes,no,0,65,168,23,8
+3,11,7,Wednesday,Summer,179,51,18,38,"2,39,554",97,no,high school,0,yes,no,0,89,170,31,1
+3,23,7,Wednesday,Summer,179,51,18,38,"2,39,554",97,no,high school,0,yes,no,0,89,170,31,4
+24,14,7,Friday,Summer,246,25,16,41,"2,39,554",97,no,high school,0,yes,no,0,67,170,23,8
+3,23,7,Friday,Summer,179,51,18,38,"2,39,554",97,no,high school,0,yes,no,0,89,170,31,2
+3,21,7,Monday,Summer,179,51,18,38,"2,39,554",97,no,high school,0,yes,no,0,89,170,31,8
+6,11,7,Thursday,Summer,189,29,13,33,"2,39,554",97,no,high school,2,no,no,2,69,167,25,8
+33,23,8,Wednesday,Summer,248,25,14,47,"2,05,917",92,no,high school,2,no,no,1,86,165,32,2
+18,10,8,Wednesday,Summer,330,16,4,28,"2,05,917",92,no,graduate,0,no,no,0,84,182,25,8
+3,11,8,Monday,Summer,179,51,18,38,"2,05,917",92,no,high school,0,yes,no,0,89,170,31,1
+10,13,8,Monday,Summer,361,52,3,28,"2,05,917",92,no,high school,1,yes,no,4,80,172,27,40
+20,28,8,Friday,Summer,260,50,11,36,"2,05,917",92,no,high school,4,yes,no,0,65,168,23,4
+11,18,8,Monday,Summer,289,36,13,33,"2,05,917",92,no,high school,2,yes,no,1,90,172,30,8
+10,25,8,Monday,Summer,361,52,3,28,"2,05,917",92,no,high school,1,yes,no,4,80,172,27,7
+11,23,8,Tuesday,Summer,289,36,13,33,"2,05,917",92,no,high school,2,yes,no,1,90,172,30,1
+30,28,8,Wednesday,Summer,157,27,6,29,"2,05,917",92,no,high school,0,yes,yes,0,75,185,22,4
+11,18,8,Wednesday,Summer,289,36,13,33,"2,05,917",92,no,high school,2,yes,no,1,90,172,30,8
+3,23,8,Friday,Summer,179,51,18,38,"2,05,917",92,no,high school,0,yes,no,0,89,170,31,2
+3,18,8,Monday,Summer,179,51,18,38,"2,05,917",92,no,high school,0,yes,no,0,89,170,31,8
+2,18,8,Thursday,Summer,235,29,12,48,"2,05,917",92,no,high school,1,no,yes,5,88,163,33,8
+1,23,8,Thursday,Summer,235,11,14,37,"2,05,917",92,no,postgraduate,1,no,no,1,88,172,29,4
+2,18,8,Monday,Summer,235,29,12,48,"2,05,917",92,no,high school,1,no,yes,5,88,163,33,8
+3,23,8,Monday,Summer,179,51,18,38,"2,05,917",92,no,high school,0,yes,no,0,89,170,31,2
+10,23,8,Monday,Summer,361,52,3,28,"2,05,917",92,no,high school,1,yes,no,4,80,172,27,1
+11,24,8,Tuesday,Summer,289,36,13,33,"2,05,917",92,no,high school,2,yes,no,1,90,172,30,8
+19,11,8,Thursday,Summer,291,50,12,32,"2,05,917",92,no,high school,0,yes,no,0,65,169,23,4
+2,28,8,Friday,Summer,235,29,12,48,"2,05,917",92,no,high school,1,no,yes,5,88,163,33,8
+20,23,8,Friday,Summer,260,50,11,36,"2,05,917",92,no,high school,4,yes,no,0,65,168,23,4
+27,23,9,Tuesday,Summer,184,42,7,27,"2,41,476",92,no,high school,0,no,no,0,58,167,21,2
+34,23,9,Monday,Summer,118,10,10,37,"2,41,476",92,no,high school,0,no,no,0,83,172,28,4
+3,23,9,Tuesday,Summer,179,51,18,38,"2,41,476",92,no,high school,0,yes,no,0,89,170,31,4
+5,19,9,Tuesday,Summer,235,20,13,43,"2,41,476",92,no,high school,1,yes,no,0,106,167,38,8
+14,23,9,Wednesday,Summer,155,12,14,34,"2,41,476",92,no,high school,2,yes,no,0,95,196,25,2
+34,23,9,Monday,Summer,118,10,10,37,"2,41,476",92,no,high school,0,no,no,0,83,172,28,3
+3,23,9,Tuesday,Summer,179,51,18,38,"2,41,476",92,no,high school,0,yes,no,0,89,170,31,3
+15,23,9,Thursday,Summer,291,31,12,40,"2,41,476",92,no,high school,1,yes,no,1,73,171,25,4
+20,22,9,Friday,Summer,260,50,11,36,"2,41,476",92,no,high school,4,yes,no,0,65,168,23,8
+15,14,9,Monday,Spring,291,31,12,40,"2,41,476",92,no,high school,1,yes,no,1,73,171,25,32
+20,0,9,Monday,Spring,260,50,11,36,"2,41,476",92,yes,high school,4,yes,no,0,65,168,23,0
+29,0,9,Monday,Spring,225,26,9,28,"2,41,476",92,yes,high school,1,no,no,2,69,169,24,0
+28,23,9,Tuesday,Spring,225,26,9,28,"2,41,476",92,no,high school,1,no,no,2,69,169,24,2
+34,23,9,Tuesday,Spring,118,10,10,37,"2,41,476",92,no,high school,0,no,no,0,83,172,28,2
+11,0,9,Tuesday,Spring,289,36,13,33,"2,41,476",92,yes,high school,2,yes,no,1,90,172,30,0
+36,0,9,Tuesday,Spring,118,13,18,50,"2,41,476",92,yes,high school,1,yes,no,0,98,178,31,0
+28,18,9,Wednesday,Spring,225,26,9,28,"2,41,476",92,no,high school,1,no,no,2,69,169,24,3
+3,23,9,Wednesday,Spring,179,51,18,38,"2,41,476",92,no,high school,0,yes,no,0,89,170,31,3
+13,0,9,Wednesday,Spring,369,17,12,31,"2,41,476",92,yes,high school,3,yes,no,0,70,169,25,0
+33,23,9,Friday,Spring,248,25,14,47,"2,41,476",92,no,high school,2,no,no,1,86,165,32,1
+3,23,9,Friday,Spring,179,51,18,38,"2,41,476",92,no,high school,0,yes,no,0,89,170,31,3
+20,23,9,Friday,Spring,260,50,11,36,"2,41,476",92,no,high school,4,yes,no,0,65,168,23,4
+3,23,10,Tuesday,Spring,179,51,18,38,"2,53,465",93,no,high school,0,yes,no,0,89,170,31,3
+34,23,10,Tuesday,Spring,118,10,10,37,"2,53,465",93,no,high school,0,no,no,0,83,172,28,3
+36,0,10,Wednesday,Spring,118,13,18,50,"2,53,465",93,yes,high school,1,yes,no,0,98,178,31,0
+22,23,10,Thursday,Spring,179,26,9,30,"2,53,465",93,no,postgraduate,0,no,no,0,56,171,19,1
+3,23,10,Friday,Spring,179,51,18,38,"2,53,465",93,no,high school,0,yes,no,0,89,170,31,3
+28,23,10,Friday,Spring,225,26,9,28,"2,53,465",93,no,high school,1,no,no,2,69,169,24,3
+34,23,10,Tuesday,Spring,118,10,10,37,"2,53,465",93,no,high school,0,no,no,0,83,172,28,3
+28,23,10,Wednesday,Spring,225,26,9,28,"2,53,465",93,no,high school,1,no,no,2,69,169,24,2
+33,23,10,Wednesday,Spring,248,25,14,47,"2,53,465",93,no,high school,2,no,no,1,86,165,32,2
+15,23,10,Thursday,Spring,291,31,12,40,"2,53,465",93,no,high school,1,yes,no,1,73,171,25,5
+3,23,10,Wednesday,Spring,179,51,18,38,"2,53,465",93,no,high school,0,yes,no,0,89,170,31,8
+28,23,10,Wednesday,Spring,225,26,9,28,"2,53,465",93,no,high school,1,no,no,2,69,169,24,3
+20,19,10,Thursday,Spring,260,50,11,36,"2,53,465",93,no,high school,4,yes,no,0,65,168,23,16
+15,14,10,Tuesday,Spring,291,31,12,40,"2,53,465",93,no,high school,1,yes,no,1,73,171,25,8
+28,28,10,Tuesday,Spring,225,26,9,28,"2,53,465",93,no,high school,1,no,no,2,69,169,24,2
+11,26,10,Wednesday,Spring,289,36,13,33,"2,53,465",93,no,high school,2,yes,no,1,90,172,30,8
+10,23,10,Friday,Spring,361,52,3,28,"2,53,465",93,no,high school,1,yes,no,4,80,172,27,1
+20,28,10,Friday,Spring,260,50,11,36,"2,53,465",93,no,high school,4,yes,no,0,65,168,23,3
+3,23,11,Thursday,Spring,179,51,18,38,"3,06,345",93,no,high school,0,yes,no,0,89,170,31,1
+28,23,11,Wednesday,Spring,225,26,9,28,"3,06,345",93,no,high school,1,no,no,2,69,169,24,1
+3,13,11,Thursday,Spring,179,51,18,38,"3,06,345",93,no,high school,0,yes,no,0,89,170,31,8
+17,21,11,Thursday,Spring,179,22,17,40,"3,06,345",93,no,graduate,2,no,yes,0,63,170,22,8
+15,23,11,Thursday,Spring,291,31,12,40,"3,06,345",93,no,high school,1,yes,no,1,73,171,25,5
+14,10,11,Monday,Spring,155,12,14,34,"3,06,345",93,no,high school,2,yes,no,0,95,196,25,32
+6,22,11,Monday,Spring,189,29,13,33,"3,06,345",93,no,high school,2,no,no,2,69,167,25,8
+15,14,11,Monday,Spring,291,31,12,40,"3,06,345",93,no,high school,1,yes,no,1,73,171,25,40
+28,23,11,Wednesday,Spring,225,26,9,28,"3,06,345",93,no,high school,1,no,no,2,69,169,24,1
+14,6,11,Friday,Spring,155,12,14,34,"3,06,345",93,no,high school,2,yes,no,0,95,196,25,8
+28,23,11,Wednesday,Spring,225,26,9,28,"3,06,345",93,no,high school,1,no,no,2,69,169,24,3
+17,21,11,Wednesday,Spring,179,22,17,40,"3,06,345",93,no,graduate,2,no,yes,0,63,170,22,8
+28,13,11,Friday,Spring,225,26,9,28,"3,06,345",93,no,high school,1,no,no,2,69,169,24,3
+20,28,11,Friday,Spring,260,50,11,36,"3,06,345",93,no,high school,4,yes,no,0,65,168,23,4
+33,28,11,Monday,Spring,248,25,14,47,"3,06,345",93,no,high school,2,no,no,1,86,165,32,1
+28,28,11,Tuesday,Spring,225,26,9,28,"3,06,345",93,no,high school,1,no,no,2,69,169,24,3
+11,7,11,Wednesday,Spring,289,36,13,33,"3,06,345",93,no,high school,2,yes,no,1,90,172,30,24
+15,23,11,Thursday,Spring,291,31,12,40,"3,06,345",93,no,high school,1,yes,no,1,73,171,25,3
+33,23,12,Tuesday,Spring,248,25,14,47,"2,61,306",97,no,high school,2,no,no,1,86,165,32,1
+34,19,12,Tuesday,Spring,118,10,10,37,"2,61,306",97,no,high school,0,no,no,0,83,172,28,64
+36,23,12,Wednesday,Spring,118,13,18,50,"2,61,306",97,no,high school,1,yes,no,0,98,178,31,2
+1,26,12,Wednesday,Spring,235,11,14,37,"2,61,306",97,no,postgraduate,1,no,no,1,88,172,29,8
+28,23,12,Thursday,Spring,225,26,9,28,"2,61,306",97,no,high school,1,no,no,2,69,169,24,2
+20,26,12,Friday,Spring,260,50,11,36,"2,61,306",97,no,high school,4,yes,no,0,65,168,23,8
+34,19,12,Tuesday,Spring,118,10,10,37,"2,61,306",97,no,high school,0,no,no,0,83,172,28,56
+10,22,12,Wednesday,Spring,361,52,3,28,"2,61,306",97,no,high school,1,yes,no,4,80,172,27,8
+28,28,12,Thursday,Spring,225,26,9,28,"2,61,306",97,no,high school,1,no,no,2,69,169,24,3
+20,28,12,Friday,Spring,260,50,11,36,"2,61,306",97,no,high school,4,yes,no,0,65,168,23,3
+28,23,12,Tuesday,Spring,225,26,9,28,"2,61,306",97,no,high school,1,no,no,2,69,169,24,2
+10,22,12,Wednesday,Spring,361,52,3,28,"2,61,306",97,no,high school,1,yes,no,4,80,172,27,8
+34,27,12,Friday,Spring,118,10,10,37,"2,61,306",97,no,high school,0,no,no,0,83,172,28,2
+24,19,12,Friday,Autumn,246,25,16,41,"2,61,306",97,no,high school,0,yes,no,0,67,170,23,8
+28,23,12,Friday,Autumn,225,26,9,28,"2,61,306",97,no,high school,1,no,no,2,69,169,24,2
+28,23,1,Wednesday,Autumn,225,26,9,28,"3,08,593",95,no,high school,1,no,no,2,69,169,24,1
+34,19,1,Monday,Autumn,118,10,10,37,"3,08,593",95,no,high school,0,no,no,0,83,172,28,1
+34,27,1,Tuesday,Autumn,118,10,10,37,"3,08,593",95,no,high school,0,no,no,0,83,172,28,1
+14,18,1,Tuesday,Autumn,155,12,14,34,"3,08,593",95,no,high school,2,yes,no,0,95,196,25,8
+28,27,1,Wednesday,Autumn,225,26,9,28,"3,08,593",95,no,high school,1,no,no,2,69,169,24,2
+27,23,1,Thursday,Autumn,184,42,7,27,"3,08,593",95,no,high school,0,no,no,0,58,167,21,2
+28,28,1,Thursday,Autumn,225,26,9,28,"3,08,593",95,no,high school,1,no,no,2,69,169,24,2
+28,27,1,Friday,Autumn,225,26,9,28,"3,08,593",95,no,high school,1,no,no,2,69,169,24,1
+34,27,1,Monday,Autumn,118,10,10,37,"3,08,593",95,no,high school,0,no,no,0,83,172,28,2
+28,27,1,Tuesday,Autumn,225,26,9,28,"3,08,593",95,no,high school,1,no,no,2,69,169,24,2
+34,27,1,Tuesday,Autumn,118,10,10,37,"3,08,593",95,no,high school,0,no,no,0,83,172,28,2
+34,27,1,Wednesday,Autumn,118,10,10,37,"3,08,593",95,no,high school,0,no,no,0,83,172,28,2
+34,27,1,Thursday,Autumn,118,10,10,37,"3,08,593",95,no,high school,0,no,no,0,83,172,28,2
+34,27,1,Friday,Autumn,118,10,10,37,"3,08,593",95,no,high school,0,no,no,0,83,172,28,2
+34,27,1,Monday,Autumn,118,10,10,37,"3,08,593",95,no,high school,0,no,no,0,83,172,28,2
+34,27,1,Tuesday,Autumn,118,10,10,37,"3,08,593",95,no,high school,0,no,no,0,83,172,28,2
+22,18,1,Tuesday,Autumn,179,26,9,30,"3,08,593",95,no,postgraduate,0,no,no,0,56,171,19,8
+11,18,1,Tuesday,Autumn,289,36,13,33,"3,08,593",95,no,high school,2,yes,no,1,90,172,30,8
+34,27,1,Wednesday,Autumn,118,10,10,37,"3,08,593",95,no,high school,0,no,no,0,83,172,28,2
+27,23,1,Thursday,Autumn,184,42,7,27,"3,08,593",95,no,high school,0,no,no,0,58,167,21,2
+34,27,1,Thursday,Autumn,118,10,10,37,"3,08,593",95,no,high school,0,no,no,0,83,172,28,2
+34,27,1,Monday,Autumn,118,10,10,37,"3,08,593",95,no,high school,0,no,no,0,83,172,28,0
+28,23,1,Tuesday,Autumn,225,26,9,28,"3,08,593",95,no,high school,1,no,no,2,69,169,24,1
+11,22,1,Thursday,Autumn,289,36,13,33,"3,08,593",95,no,high school,2,yes,no,1,90,172,30,3
+27,23,2,Friday,Autumn,184,42,7,27,"3,02,585",99,no,high school,0,no,no,0,58,167,21,1
+24,1,2,Wednesday,Autumn,246,25,16,41,"3,02,585",99,no,high school,0,yes,no,0,67,170,23,8
+3,11,2,Wednesday,Autumn,179,51,18,38,"3,02,585",99,no,high school,0,yes,no,0,89,170,31,8
+14,28,2,Thursday,Autumn,155,12,14,34,"3,02,585",99,no,high school,2,yes,no,0,95,196,25,2
+6,23,2,Thursday,Autumn,189,29,13,33,"3,02,585",99,no,high school,2,no,no,2,69,167,25,8
+20,28,2,Friday,Autumn,260,50,11,36,"3,02,585",99,no,high school,4,yes,no,0,65,168,23,2
+11,22,2,Friday,Autumn,289,36,13,33,"3,02,585",99,no,high school,2,yes,no,1,90,172,30,8
+31,11,2,Monday,Autumn,388,15,9,50,"3,02,585",99,no,high school,0,no,no,0,76,178,24,8
+31,1,2,Tuesday,Autumn,388,15,9,50,"3,02,585",99,no,high school,0,no,no,0,76,178,24,8
+28,28,2,Monday,Autumn,225,26,9,28,"3,02,585",99,no,high school,1,no,no,2,69,169,24,2
+28,23,2,Tuesday,Autumn,225,26,9,28,"3,02,585",99,no,high school,1,no,no,2,69,169,24,2
+22,23,2,Tuesday,Autumn,179,26,9,30,"3,02,585",99,no,postgraduate,0,no,no,0,56,171,19,1
+27,23,2,Tuesday,Autumn,184,42,7,27,"3,02,585",99,no,high school,0,no,no,0,58,167,21,8
+28,25,2,Thursday,Autumn,225,26,9,28,"3,02,585",99,no,high school,1,no,no,2,69,169,24,3
+18,18,2,Monday,Autumn,330,16,4,28,"3,02,585",99,no,graduate,0,no,no,0,84,182,25,8
+18,23,2,Tuesday,Autumn,330,16,4,28,"3,02,585",99,no,graduate,0,no,no,0,84,182,25,1
+28,23,2,Wednesday,Autumn,225,26,9,28,"3,02,585",99,no,high school,1,no,no,2,69,169,24,1
+6,19,2,Thursday,Autumn,189,29,13,33,"3,02,585",99,no,high school,2,no,no,2,69,167,25,8
+19,28,3,Tuesday,Autumn,291,50,12,32,"3,43,253",95,no,high school,0,yes,no,0,65,169,23,2
+20,19,3,Tuesday,Autumn,260,50,11,36,"3,43,253",95,no,high school,4,yes,no,0,65,168,23,8
+30,19,3,Tuesday,Autumn,157,27,6,29,"3,43,253",95,no,high school,0,yes,yes,0,75,185,22,3
+17,17,3,Tuesday,Autumn,179,22,17,40,"3,43,253",95,no,graduate,2,no,yes,0,63,170,22,8
+15,22,3,Wednesday,Autumn,291,31,12,40,"3,43,253",95,no,high school,1,yes,no,1,73,171,25,8
+20,13,3,Wednesday,Autumn,260,50,11,36,"3,43,253",95,no,high school,4,yes,no,0,65,168,23,8
+22,13,3,Thursday,Autumn,179,26,9,30,"3,43,253",95,no,postgraduate,0,no,no,0,56,171,19,8
+33,14,3,Friday,Autumn,248,25,14,47,"3,43,253",95,no,high school,2,no,no,1,86,165,32,3
+20,13,3,Friday,Autumn,260,50,11,36,"3,43,253",95,no,high school,4,yes,no,0,65,168,23,40
+17,11,3,Monday,Autumn,179,22,17,40,"3,43,253",95,no,graduate,2,no,yes,0,63,170,22,40
+14,1,3,Monday,Autumn,155,12,14,34,"3,43,253",95,no,high school,2,yes,no,0,95,196,25,16
+20,26,3,Monday,Autumn,260,50,11,36,"3,43,253",95,no,high school,4,yes,no,0,65,168,23,16
+14,13,3,Tuesday,Autumn,155,12,14,34,"3,43,253",95,no,high school,2,yes,no,0,95,196,25,8
+11,6,3,Thursday,Autumn,289,36,13,33,"3,43,253",95,no,high school,2,yes,no,1,90,172,30,8
+17,8,3,Thursday,Autumn,179,22,17,40,"3,43,253",95,no,graduate,2,no,yes,0,63,170,22,8
+20,28,3,Friday,Autumn,260,50,11,36,"3,43,253",95,no,high school,4,yes,no,0,65,168,23,4
+28,23,3,Friday,Autumn,225,26,9,28,"3,43,253",95,no,high school,1,no,no,2,69,169,24,1
+7,14,3,Monday,Autumn,279,5,14,39,"3,43,253",95,no,high school,2,yes,yes,0,68,168,24,8
+3,13,3,Tuesday,Autumn,179,51,18,38,"3,43,253",95,no,high school,0,yes,no,0,89,170,31,24
+28,23,3,Wednesday,Autumn,225,26,9,28,"3,43,253",95,no,high school,1,no,no,2,69,169,24,2
+28,11,3,Monday,Winter,225,26,9,28,"3,43,253",95,no,high school,1,no,no,2,69,169,24,8
+22,13,3,Monday,Winter,179,26,9,30,"3,43,253",95,no,postgraduate,0,no,no,0,56,171,19,1
+28,11,3,Tuesday,Winter,225,26,9,28,"3,43,253",95,no,high school,1,no,no,2,69,169,24,8
+28,11,3,Wednesday,Winter,225,26,9,28,"3,43,253",95,no,high school,1,no,no,2,69,169,24,16
+3,13,3,Wednesday,Winter,179,51,18,38,"3,43,253",95,no,high school,0,yes,no,0,89,170,31,3
+7,14,3,Thursday,Winter,279,5,14,39,"3,43,253",95,no,high school,2,yes,yes,0,68,168,24,16
+28,28,3,Friday,Winter,225,26,9,28,"3,43,253",95,no,high school,1,no,no,2,69,169,24,2
+33,14,3,Friday,Winter,248,25,14,47,"3,43,253",95,no,high school,2,no,no,1,86,165,32,3
+28,28,3,Monday,Winter,225,26,9,28,"3,43,253",95,no,high school,1,no,no,2,69,169,24,1
+15,28,4,Wednesday,Winter,291,31,12,40,"3,26,452",96,no,high school,1,yes,no,1,73,171,25,1
+28,23,4,Wednesday,Winter,225,26,9,28,"3,26,452",96,no,high school,1,no,no,2,69,169,24,1
+14,28,4,Tuesday,Winter,155,12,14,34,"3,26,452",96,no,high school,2,yes,no,0,95,196,25,1
+24,13,4,Wednesday,Winter,246,25,16,41,"3,26,452",96,no,high school,0,yes,no,0,67,170,23,24
+14,23,4,Thursday,Winter,155,12,14,34,"3,26,452",96,no,high school,2,yes,no,0,95,196,25,1
+28,28,4,Friday,Winter,225,26,9,28,"3,26,452",96,no,high school,1,no,no,2,69,169,24,2
+20,28,4,Friday,Winter,260,50,11,36,"3,26,452",96,no,high school,4,yes,no,0,65,168,23,4
+3,13,4,Wednesday,Winter,179,51,18,38,"3,26,452",96,no,high school,0,yes,no,0,89,170,31,24
+36,23,4,Thursday,Winter,118,13,18,50,"3,26,452",96,no,high school,1,yes,no,0,98,178,31,1
+15,23,4,Friday,Winter,291,31,12,40,"3,26,452",96,no,high school,1,yes,no,1,73,171,25,3
+24,14,4,Friday,Winter,246,25,16,41,"3,26,452",96,no,high school,0,yes,no,0,67,170,23,8
+15,28,4,Friday,Winter,291,31,12,40,"3,26,452",96,no,high school,1,yes,no,1,73,171,25,1
+33,28,4,Friday,Winter,248,25,14,47,"3,26,452",96,no,high school,2,no,no,1,86,165,32,8
+20,19,4,Friday,Winter,260,50,11,36,"3,26,452",96,no,high school,4,yes,no,0,65,168,23,56
+11,19,4,Tuesday,Winter,289,36,13,33,"3,26,452",96,no,high school,2,yes,no,1,90,172,30,8
+14,12,4,Wednesday,Winter,155,12,14,34,"3,26,452",96,no,high school,2,yes,no,0,95,196,25,24
+23,19,4,Wednesday,Winter,378,49,11,36,"3,26,452",96,no,high school,2,no,yes,4,65,174,21,8
+11,13,4,Thursday,Winter,289,36,13,33,"3,26,452",96,no,high school,2,yes,no,1,90,172,30,16
+1,7,4,Friday,Winter,235,11,14,37,"3,26,452",96,no,postgraduate,1,no,no,1,88,172,29,3
+2,0,4,Monday,Winter,235,29,12,48,"3,26,452",96,yes,high school,1,no,yes,5,88,163,33,0
+11,13,5,Wednesday,Winter,289,36,13,33,"3,78,884",92,no,high school,2,yes,no,1,90,172,30,8
+14,28,5,Thursday,Winter,155,12,14,34,"3,78,884",92,no,high school,2,yes,no,0,95,196,25,2
+14,28,5,Monday,Winter,155,12,14,34,"3,78,884",92,no,high school,2,yes,no,0,95,196,25,1
+3,18,5,Tuesday,Winter,179,51,18,38,"3,78,884",92,no,high school,0,yes,no,0,89,170,31,8
+28,19,5,Tuesday,Winter,225,26,9,28,"3,78,884",92,no,high school,1,no,no,2,69,169,24,8
+27,7,5,Wednesday,Winter,184,42,7,27,"3,78,884",92,no,high school,0,no,no,0,58,167,21,4
+14,28,5,Monday,Winter,155,12,14,34,"3,78,884",92,no,high school,2,yes,no,0,95,196,25,2
+3,12,5,Tuesday,Winter,179,51,18,38,"3,78,884",92,no,high school,0,yes,no,0,89,170,31,1
+11,13,5,Wednesday,Winter,289,36,13,33,"3,78,884",92,no,high school,2,yes,no,1,90,172,30,24
+7,0,5,Wednesday,Winter,279,5,14,39,"3,78,884",92,yes,high school,2,yes,yes,0,68,168,24,0
+18,0,5,Wednesday,Winter,330,16,4,28,"3,78,884",92,yes,graduate,0,no,no,0,84,182,25,0
+23,0,5,Wednesday,Winter,378,49,11,36,"3,78,884",92,yes,high school,2,no,yes,4,65,174,21,0
+31,0,5,Wednesday,Winter,388,15,9,50,"3,78,884",92,yes,high school,0,no,no,0,76,178,24,0
+3,11,5,Tuesday,Winter,179,51,18,38,"3,78,884",92,no,high school,0,yes,no,0,89,170,31,1
+36,13,5,Wednesday,Winter,118,13,18,50,"3,78,884",92,no,high school,1,yes,no,0,98,178,31,24
+10,22,5,Friday,Winter,361,52,3,28,"3,78,884",92,no,high school,1,yes,no,4,80,172,27,8
+24,19,6,Monday,Winter,246,25,16,41,"3,77,550",94,no,high school,0,yes,no,0,67,170,23,8
+10,22,6,Monday,Winter,361,52,3,28,"3,77,550",94,no,high school,1,yes,no,4,80,172,27,8
+24,10,6,Tuesday,Winter,246,25,16,41,"3,77,550",94,no,high school,0,yes,no,0,67,170,23,24
+15,23,6,Thursday,Winter,291,31,12,40,"3,77,550",94,no,high school,1,yes,no,1,73,171,25,4
+24,10,6,Friday,Winter,246,25,16,41,"3,77,550",94,no,high school,0,yes,no,0,67,170,23,8
+3,11,6,Monday,Winter,179,51,18,38,"3,77,550",94,no,high school,0,yes,no,0,89,170,31,8
+14,23,6,Monday,Winter,155,12,14,34,"3,77,550",94,no,high school,2,yes,no,0,95,196,25,4
+24,10,6,Monday,Winter,246,25,16,41,"3,77,550",94,no,high school,0,yes,no,0,67,170,23,8
+36,13,6,Wednesday,Winter,118,13,18,50,"3,77,550",94,no,high school,1,yes,no,0,98,178,31,8
+1,13,6,Friday,Winter,235,11,14,37,"3,77,550",94,no,postgraduate,1,no,no,1,88,172,29,16
+36,23,6,Tuesday,Winter,118,13,18,50,"3,77,550",94,no,high school,1,yes,no,0,98,178,31,1
+36,13,6,Wednesday,Winter,118,13,18,50,"3,77,550",94,no,high school,1,yes,no,0,98,178,31,80
+23,22,6,Thursday,Winter,378,49,11,36,"3,77,550",94,no,high school,2,no,yes,4,65,174,21,8
+3,11,6,Friday,Winter,179,51,18,38,"3,77,550",94,no,high school,0,yes,no,0,89,170,31,2
+32,28,6,Monday,Summer,289,48,29,49,"3,77,550",94,no,high school,0,no,no,2,108,172,36,2
+28,28,6,Thursday,Summer,225,26,9,28,"3,77,550",94,no,high school,1,no,no,2,69,169,24,2
+14,19,7,Tuesday,Summer,155,12,14,34,"2,75,312",98,no,high school,2,yes,no,0,95,196,25,16
+36,1,7,Wednesday,Summer,118,13,18,50,"2,75,312",98,no,high school,1,yes,no,0,98,178,31,8
+34,5,7,Friday,Summer,118,10,10,37,"2,75,312",98,no,high school,0,no,no,0,83,172,28,8
+34,26,7,Friday,Summer,118,10,10,37,"2,75,312",98,no,high school,0,no,no,0,83,172,28,4
+18,26,7,Tuesday,Summer,330,16,4,28,"2,75,312",98,no,graduate,0,no,no,0,84,182,25,8
+22,18,7,Thursday,Summer,179,26,9,30,"2,75,312",98,no,postgraduate,0,no,no,0,56,171,19,8
+14,25,7,Friday,Summer,155,12,14,34,"2,75,312",98,no,high school,2,yes,no,0,95,196,25,2
+18,1,7,Monday,Summer,330,16,4,28,"2,75,312",98,no,graduate,0,no,no,0,84,182,25,8
+18,1,7,Tuesday,Summer,330,16,4,28,"2,75,312",98,no,graduate,0,no,no,0,84,182,25,8
+30,25,7,Monday,Summer,157,27,6,29,"2,75,312",98,no,high school,0,yes,yes,0,75,185,22,3
+10,22,7,Tuesday,Summer,361,52,3,28,"2,75,312",98,no,high school,1,yes,no,4,80,172,27,8
+11,26,7,Wednesday,Summer,289,36,13,33,"2,75,312",98,no,high school,2,yes,no,1,90,172,30,8
+3,26,7,Thursday,Summer,179,51,18,38,"2,75,312",98,no,high school,0,yes,no,0,89,170,31,8
+11,19,7,Monday,Summer,289,36,13,33,"2,75,312",98,no,high school,2,yes,no,1,90,172,30,32
+11,19,7,Thursday,Summer,289,36,13,33,"2,75,312",98,no,high school,2,yes,no,1,90,172,30,8
+20,0,7,Thursday,Summer,260,50,11,36,"2,75,312",98,yes,high school,4,yes,no,0,65,168,23,0
+11,19,8,Friday,Summer,289,36,13,33,"2,65,615",94,no,high school,2,yes,no,1,90,172,30,8
+30,19,8,Friday,Summer,157,27,6,29,"2,65,615",94,no,high school,0,yes,yes,0,75,185,22,3
+11,23,8,Monday,Summer,289,36,13,33,"2,65,615",94,no,high school,2,yes,no,1,90,172,30,1
+9,18,8,Tuesday,Summer,228,14,16,58,"2,65,615",94,no,high school,2,no,no,1,65,172,22,8
+26,13,8,Thursday,Summer,300,26,13,43,"2,65,615",94,no,high school,2,yes,yes,1,77,175,25,1
+26,14,8,Thursday,Summer,300,26,13,43,"2,65,615",94,no,high school,2,yes,yes,1,77,175,25,2
+20,28,8,Friday,Summer,260,50,11,36,"2,65,615",94,no,high school,4,yes,no,0,65,168,23,4
+11,23,8,Tuesday,Summer,289,36,13,33,"2,65,615",94,no,high school,2,yes,no,1,90,172,30,4
+33,23,8,Wednesday,Summer,248,25,14,47,"2,65,615",94,no,high school,2,no,no,1,86,165,32,1
+21,11,8,Thursday,Summer,268,11,8,33,"2,65,615",94,no,graduate,0,no,no,0,79,178,25,8
+22,23,8,Thursday,Summer,179,26,9,30,"2,65,615",94,no,postgraduate,0,no,no,0,56,171,19,1
+36,13,8,Thursday,Summer,118,13,18,50,"2,65,615",94,no,high school,1,yes,no,0,98,178,31,3
+33,25,8,Monday,Summer,248,25,14,47,"2,65,615",94,no,high school,2,no,no,1,86,165,32,2
+1,23,8,Tuesday,Summer,235,11,14,37,"2,65,615",94,no,postgraduate,1,no,no,1,88,172,29,1
+36,23,8,Thursday,Summer,118,13,18,50,"2,65,615",94,no,high school,1,yes,no,0,98,178,31,1
+1,19,8,Thursday,Summer,235,11,14,37,"2,65,615",94,no,postgraduate,1,no,no,1,88,172,29,8
+10,8,8,Tuesday,Summer,361,52,3,28,"2,65,615",94,no,high school,1,yes,no,4,80,172,27,8
+27,6,8,Wednesday,Summer,184,42,7,27,"2,65,615",94,no,high school,0,no,no,0,58,167,21,8
+3,11,9,Monday,Summer,179,51,18,38,"2,94,217",81,no,high school,0,yes,no,0,89,170,31,8
+3,23,9,Friday,Summer,179,51,18,38,"2,94,217",81,no,high school,0,yes,no,0,89,170,31,3
+11,19,9,Wednesday,Summer,289,36,13,33,"2,94,217",81,no,high school,2,yes,no,1,90,172,30,24
+5,0,9,Thursday,Summer,235,20,13,43,"2,94,217",81,yes,high school,1,yes,no,0,106,167,38,0
+24,9,9,Monday,Summer,246,25,16,41,"2,94,217",81,no,high school,0,yes,no,0,67,170,23,16
+15,28,9,Tuesday,Summer,291,31,12,40,"2,94,217",81,no,high school,1,yes,no,1,73,171,25,3
+8,0,9,Tuesday,Summer,231,35,14,39,"2,94,217",81,yes,high school,2,yes,no,2,100,170,35,0
+19,0,9,Tuesday,Summer,291,50,12,32,"2,94,217",81,yes,high school,0,yes,no,0,65,169,23,0
+3,13,9,Wednesday,Summer,179,51,18,38,"2,94,217",81,no,high school,0,yes,no,0,89,170,31,8
+24,9,9,Wednesday,Summer,246,25,16,41,"2,94,217",81,no,high school,0,yes,no,0,67,170,23,32
+3,23,9,Thursday,Summer,179,51,18,38,"2,94,217",81,no,high school,0,yes,no,0,89,170,31,1
+15,28,9,Friday,Summer,291,31,12,40,"2,94,217",81,no,high school,1,yes,no,1,73,171,25,4
+20,28,9,Friday,Summer,260,50,11,36,"2,94,217",81,no,high school,4,yes,no,0,65,168,23,4
+5,26,9,Wednesday,Spring,235,20,13,43,"2,94,217",81,no,high school,1,yes,no,0,106,167,38,8
+36,28,9,Thursday,Spring,118,13,18,50,"2,94,217",81,no,high school,1,yes,no,0,98,178,31,1
+5,0,9,Thursday,Spring,235,20,13,43,"2,94,217",81,yes,high school,1,yes,no,0,106,167,38,0
+15,28,9,Friday,Spring,291,31,12,40,"2,94,217",81,no,high school,1,yes,no,1,73,171,25,3
+15,7,9,Monday,Spring,291,31,12,40,"2,94,217",81,no,high school,1,yes,no,1,73,171,25,40
+3,13,9,Monday,Spring,179,51,18,38,"2,94,217",81,no,high school,0,yes,no,0,89,170,31,8
+11,24,10,Monday,Spring,289,36,13,33,"2,65,017",88,no,high school,2,yes,no,1,90,172,30,8
+1,26,10,Monday,Spring,235,11,14,37,"2,65,017",88,no,postgraduate,1,no,no,1,88,172,29,4
+11,26,10,Monday,Spring,289,36,13,33,"2,65,017",88,no,high school,2,yes,no,1,90,172,30,8
+11,22,10,Friday,Spring,289,36,13,33,"2,65,017",88,no,high school,2,yes,no,1,90,172,30,8
+36,0,10,Friday,Spring,118,13,18,50,"2,65,017",88,yes,high school,1,yes,no,0,98,178,31,0
+33,0,10,Friday,Spring,248,25,14,47,"2,65,017",88,yes,high school,2,no,no,1,86,165,32,0
+22,1,10,Monday,Spring,179,26,9,30,"2,65,017",88,no,postgraduate,0,no,no,0,56,171,19,8
+34,7,10,Monday,Spring,118,10,10,37,"2,65,017",88,no,high school,0,no,no,0,83,172,28,3
+13,22,10,Monday,Spring,369,17,12,31,"2,65,017",88,no,high school,3,yes,no,0,70,169,25,8
+3,28,10,Wednesday,Spring,179,51,18,38,"2,65,017",88,no,high school,0,yes,no,0,89,170,31,1
+22,1,10,Wednesday,Spring,179,26,9,30,"2,65,017",88,no,postgraduate,0,no,no,0,56,171,19,64
+5,0,10,Wednesday,Spring,235,20,13,43,"2,65,017",88,yes,high school,1,yes,no,0,106,167,38,0
+11,19,10,Thursday,Spring,289,36,13,33,"2,65,017",88,no,high school,2,yes,no,1,90,172,30,16
+20,28,10,Friday,Spring,260,50,11,36,"2,65,017",88,no,high school,4,yes,no,0,65,168,23,3
+5,0,10,Friday,Spring,235,20,13,43,"2,65,017",88,yes,high school,1,yes,no,0,106,167,38,0
+5,23,10,Monday,Spring,235,20,13,43,"2,65,017",88,no,high school,1,yes,no,0,106,167,38,2
+5,23,10,Monday,Spring,235,20,13,43,"2,65,017",88,no,high school,1,yes,no,0,106,167,38,2
+36,28,10,Tuesday,Spring,118,13,18,50,"2,65,017",88,no,high school,1,yes,no,0,98,178,31,1
+15,28,10,Tuesday,Spring,291,31,12,40,"2,65,017",88,no,high school,1,yes,no,1,73,171,25,4
+22,23,10,Thursday,Spring,179,26,9,30,"2,65,017",88,no,postgraduate,0,no,no,0,56,171,19,16
+36,28,10,Thursday,Spring,118,13,18,50,"2,65,017",88,no,high school,1,yes,no,0,98,178,31,1
+10,10,10,Monday,Spring,361,52,3,28,"2,65,017",88,no,high school,1,yes,no,4,80,172,27,8
+20,0,10,Tuesday,Spring,260,50,11,36,"2,65,017",88,yes,high school,4,yes,no,0,65,168,23,0
+15,0,10,Tuesday,Spring,291,31,12,40,"2,65,017",88,yes,high school,1,yes,no,1,73,171,25,0
+30,0,10,Tuesday,Spring,157,27,6,29,"2,65,017",88,yes,high school,0,yes,yes,0,75,185,22,0
+22,1,10,Wednesday,Spring,179,26,9,30,"2,65,017",88,no,postgraduate,0,no,no,0,56,171,19,5
+22,7,10,Wednesday,Spring,179,26,9,30,"2,65,017",88,no,postgraduate,0,no,no,0,56,171,19,5
+36,23,10,Thursday,Spring,118,13,18,50,"2,65,017",88,no,high school,1,yes,no,0,98,178,31,1
+34,11,11,Monday,Spring,118,10,10,37,"2,84,031",97,no,high school,0,no,no,0,83,172,28,8
+33,23,11,Monday,Spring,248,25,14,47,"2,84,031",97,no,high school,2,no,no,1,86,165,32,2
+3,6,11,Tuesday,Spring,179,51,18,38,"2,84,031",97,no,high school,0,yes,no,0,89,170,31,8
+20,28,11,Friday,Spring,260,50,11,36,"2,84,031",97,no,high school,4,yes,no,0,65,168,23,3
+15,23,11,Monday,Spring,291,31,12,40,"2,84,031",97,no,high school,1,yes,no,1,73,171,25,1
+23,1,11,Monday,Spring,378,49,11,36,"2,84,031",97,no,high school,2,no,yes,4,65,174,21,8
+14,11,11,Monday,Spring,155,12,14,34,"2,84,031",97,no,high school,2,yes,no,0,95,196,25,120
+5,26,11,Monday,Spring,235,20,13,43,"2,84,031",97,no,high school,1,yes,no,0,106,167,38,8
+18,0,11,Tuesday,Spring,330,16,4,28,"2,84,031",97,yes,graduate,0,no,no,0,84,182,25,0
+1,18,11,Wednesday,Spring,235,11,14,37,"2,84,031",97,no,postgraduate,1,no,no,1,88,172,29,1
+34,11,11,Wednesday,Spring,118,10,10,37,"2,84,031",97,no,high school,0,no,no,0,83,172,28,3
+1,25,11,Thursday,Spring,235,11,14,37,"2,84,031",97,no,postgraduate,1,no,no,1,88,172,29,2
+3,28,11,Thursday,Spring,179,51,18,38,"2,84,031",97,no,high school,0,yes,no,0,89,170,31,3
+24,13,11,Friday,Spring,246,25,16,41,"2,84,031",97,no,high school,0,yes,no,0,67,170,23,8
+15,12,11,Friday,Spring,291,31,12,40,"2,84,031",97,no,high school,1,yes,no,1,73,171,25,4
+24,13,11,Monday,Spring,246,25,16,41,"2,84,031",97,no,high school,0,yes,no,0,67,170,23,8
+3,28,11,Tuesday,Spring,179,51,18,38,"2,84,031",97,no,high school,0,yes,no,0,89,170,31,1
+20,10,11,Wednesday,Spring,260,50,11,36,"2,84,031",97,no,high school,4,yes,no,0,65,168,23,8
+20,15,11,Friday,Spring,260,50,11,36,"2,84,031",97,no,high school,4,yes,no,0,65,168,23,8
+23,0,11,Friday,Spring,378,49,11,36,"2,84,031",97,yes,high school,2,no,yes,4,65,174,21,0
+7,0,11,Tuesday,Spring,279,5,14,39,"2,84,031",97,yes,high school,2,yes,yes,0,68,168,24,0
+3,23,11,Thursday,Spring,179,51,18,38,"2,84,031",97,no,high school,0,yes,no,0,89,170,31,1
+28,12,12,Monday,Spring,225,26,9,28,"2,36,629",93,no,high school,1,no,no,2,69,169,24,3
+3,28,12,Monday,Spring,179,51,18,38,"2,36,629",93,no,high school,0,yes,no,0,89,170,31,2
+3,28,12,Monday,Spring,179,51,18,38,"2,36,629",93,no,high school,0,yes,no,0,89,170,31,1
+1,23,12,Monday,Spring,235,11,14,37,"2,36,629",93,no,postgraduate,1,no,no,1,88,172,29,3
+36,28,12,Tuesday,Spring,118,13,18,50,"2,36,629",93,no,high school,1,yes,no,0,98,178,31,1
+20,28,12,Friday,Spring,260,50,11,36,"2,36,629",93,no,high school,4,yes,no,0,65,168,23,4
+24,4,12,Thursday,Spring,246,25,16,41,"2,36,629",93,no,high school,0,yes,no,0,67,170,23,8
+3,28,12,Thursday,Spring,179,51,18,38,"2,36,629",93,no,high school,0,yes,no,0,89,170,31,1
+3,28,12,Friday,Spring,179,51,18,38,"2,36,629",93,no,high school,0,yes,no,0,89,170,31,1
+22,23,12,Tuesday,Spring,179,26,9,30,"2,36,629",93,no,postgraduate,0,no,no,0,56,171,19,1
+34,25,12,Tuesday,Spring,118,10,10,37,"2,36,629",93,no,high school,0,no,no,0,83,172,28,8
+1,25,12,Thursday,Spring,235,11,14,37,"2,36,629",93,no,postgraduate,1,no,no,1,88,172,29,2
+3,28,12,Friday,Spring,179,51,18,38,"2,36,629",93,no,high school,0,yes,no,0,89,170,31,1
+5,13,12,Tuesday,Autumn,235,20,13,43,"2,36,629",93,no,high school,1,yes,no,0,106,167,38,8
+1,14,12,Tuesday,Autumn,235,11,14,37,"2,36,629",93,no,postgraduate,1,no,no,1,88,172,29,4
+20,26,12,Wednesday,Autumn,260,50,11,36,"2,36,629",93,no,high school,4,yes,no,0,65,168,23,8
+30,28,12,Monday,Autumn,157,27,6,29,"2,36,629",93,no,high school,0,yes,yes,0,75,185,22,2
+3,28,12,Monday,Autumn,179,51,18,38,"2,36,629",93,no,high school,0,yes,no,0,89,170,31,3
+11,19,12,Monday,Autumn,289,36,13,33,"2,36,629",93,no,high school,2,yes,no,1,90,172,30,8
+28,23,1,Wednesday,Autumn,225,26,9,28,"3,30,061",100,no,high school,1,no,no,2,69,169,24,5
+34,19,1,Monday,Autumn,118,10,10,37,"3,30,061",100,no,high school,0,no,no,0,83,172,28,32
+14,23,1,Monday,Autumn,155,12,14,34,"3,30,061",100,no,high school,2,yes,no,0,95,196,25,2
+1,13,1,Tuesday,Autumn,235,11,14,37,"3,30,061",100,no,postgraduate,1,no,no,1,88,172,29,1
+14,23,1,Tuesday,Autumn,155,12,14,34,"3,30,061",100,no,high school,2,yes,no,0,95,196,25,4
+11,26,1,Monday,Autumn,289,36,13,33,"3,30,061",100,no,high school,2,yes,no,1,90,172,30,8
+15,3,1,Wednesday,Autumn,291,31,12,40,"3,30,061",100,no,high school,1,yes,no,1,73,171,25,8
+5,26,1,Monday,Autumn,235,20,13,43,"3,30,061",100,no,high school,1,yes,no,0,106,167,38,8
+36,26,1,Monday,Autumn,118,13,18,50,"3,30,061",100,no,high school,1,yes,no,0,98,178,31,4
+3,28,1,Wednesday,Autumn,179,51,18,38,"3,30,061",100,no,high school,0,yes,no,0,89,170,31,1
+3,28,1,Friday,Autumn,179,51,18,38,"3,30,061",100,no,high school,0,yes,no,0,89,170,31,1
+34,28,2,Tuesday,Autumn,118,10,10,37,"2,51,818",96,no,high school,0,no,no,0,83,172,28,2
+3,27,2,Wednesday,Autumn,179,51,18,38,"2,51,818",96,no,high school,0,yes,no,0,89,170,31,3
+28,7,2,Wednesday,Autumn,225,26,9,28,"2,51,818",96,no,high school,1,no,no,2,69,169,24,1
+11,22,2,Friday,Autumn,289,36,13,33,"2,51,818",96,no,high school,2,yes,no,1,90,172,30,3
+20,28,2,Friday,Autumn,260,50,11,36,"2,51,818",96,no,high school,4,yes,no,0,65,168,23,3
+3,23,2,Friday,Autumn,179,51,18,38,"2,51,818",96,no,high school,0,yes,no,0,89,170,31,3
+3,27,2,Monday,Autumn,179,51,18,38,"2,51,818",96,no,high school,0,yes,no,0,89,170,31,2
+3,27,2,Wednesday,Autumn,179,51,18,38,"2,51,818",96,no,high school,0,yes,no,0,89,170,31,3
+3,10,2,Thursday,Autumn,179,51,18,38,"2,51,818",96,no,high school,0,yes,no,0,89,170,31,8
+24,26,2,Thursday,Autumn,246,25,16,41,"2,51,818",96,no,high school,0,yes,no,0,67,170,23,8
+3,27,2,Friday,Autumn,179,51,18,38,"2,51,818",96,no,high school,0,yes,no,0,89,170,31,3
+6,22,2,Monday,Autumn,189,29,13,33,"2,51,818",96,no,high school,2,no,no,2,69,167,25,8
+3,27,2,Monday,Autumn,179,51,18,38,"2,51,818",96,no,high school,0,yes,no,0,89,170,31,3
+24,23,2,Tuesday,Autumn,246,25,16,41,"2,51,818",96,no,high school,0,yes,no,0,67,170,23,2
+15,23,2,Tuesday,Autumn,291,31,12,40,"2,51,818",96,no,high school,1,yes,no,1,73,171,25,2
+30,11,2,Wednesday,Autumn,157,27,6,29,"2,51,818",96,no,high school,0,yes,yes,0,75,185,22,16
+3,27,2,Wednesday,Autumn,179,51,18,38,"2,51,818",96,no,high school,0,yes,no,0,89,170,31,3
+3,27,2,Friday,Autumn,179,51,18,38,"2,51,818",96,no,high school,0,yes,no,0,89,170,31,3
+24,10,2,Friday,Autumn,246,25,16,41,"2,51,818",96,no,high school,0,yes,no,0,67,170,23,24
+3,27,2,Wednesday,Autumn,179,51,18,38,"2,51,818",96,no,high school,0,yes,no,0,89,170,31,3
+3,27,2,Friday,Autumn,179,51,18,38,"2,51,818",96,no,high school,0,yes,no,0,89,170,31,3
+34,18,3,Tuesday,Autumn,118,10,10,37,"2,44,387",98,no,high school,0,no,no,0,83,172,28,8
+24,19,3,Wednesday,Autumn,246,25,16,41,"2,44,387",98,no,high school,0,yes,no,0,67,170,23,16
+24,28,3,Friday,Autumn,246,25,16,41,"2,44,387",98,no,high school,0,yes,no,0,67,170,23,2
+20,28,3,Friday,Autumn,260,50,11,36,"2,44,387",98,no,high school,4,yes,no,0,65,168,23,4
+3,28,3,Monday,Autumn,179,51,18,38,"2,44,387",98,no,high school,0,yes,no,0,89,170,31,2
+1,22,3,Monday,Autumn,235,11,14,37,"2,44,387",98,no,postgraduate,1,no,no,1,88,172,29,8
+17,22,3,Tuesday,Autumn,179,22,17,40,"2,44,387",98,no,graduate,2,no,yes,0,63,170,22,8
+23,22,3,Tuesday,Autumn,378,49,11,36,"2,44,387",98,no,high school,2,no,yes,4,65,174,21,8
+3,28,3,Monday,Autumn,179,51,18,38,"2,44,387",98,no,high school,0,yes,no,0,89,170,31,16
+10,22,3,Wednesday,Autumn,361,52,3,28,"2,44,387",98,no,high school,1,yes,no,4,80,172,27,8
+13,0,3,Wednesday,Autumn,369,17,12,31,"2,44,387",98,yes,high school,3,yes,no,0,70,169,25,0
+1,21,3,Thursday,Autumn,235,11,14,37,"2,44,387",98,no,postgraduate,1,no,no,1,88,172,29,8
+36,23,3,Friday,Winter,118,13,18,50,"2,44,387",98,no,high school,1,yes,no,0,98,178,31,2
+36,14,3,Tuesday,Winter,118,13,18,50,"2,44,387",98,no,high school,1,yes,no,0,98,178,31,3
+36,13,3,Wednesday,Winter,118,13,18,50,"2,44,387",98,no,high school,1,yes,no,0,98,178,31,8
+1,0,3,Thursday,Winter,235,11,14,37,"2,44,387",98,yes,postgraduate,1,no,no,1,88,172,29,0
+24,0,3,Thursday,Winter,246,25,16,41,"2,44,387",98,yes,high school,0,yes,no,0,67,170,23,0
+36,0,3,Thursday,Winter,118,13,18,50,"2,44,387",98,yes,high school,1,yes,no,0,98,178,31,0
+3,28,3,Friday,Winter,179,51,18,38,"2,44,387",98,no,high school,0,yes,no,0,89,170,31,8
+11,22,3,Friday,Winter,289,36,13,33,"2,44,387",98,no,high school,2,yes,no,1,90,172,30,8
+20,19,3,Monday,Winter,260,50,11,36,"2,44,387",98,no,high school,4,yes,no,0,65,168,23,8
+24,28,3,Tuesday,Winter,246,25,16,41,"2,44,387",98,no,high school,0,yes,no,0,67,170,23,2
+3,28,4,Wednesday,Winter,179,51,18,38,"2,39,409",98,no,high school,0,yes,no,0,89,170,31,4
+20,28,4,Friday,Winter,260,50,11,36,"2,39,409",98,no,high school,4,yes,no,0,65,168,23,3
+18,26,4,Friday,Winter,330,16,4,28,"2,39,409",98,no,graduate,0,no,no,0,84,182,25,4
+13,22,4,Monday,Winter,369,17,12,31,"2,39,409",98,no,high school,3,yes,no,0,70,169,25,4
+33,26,4,Monday,Winter,248,25,14,47,"2,39,409",98,no,high school,2,no,no,1,86,165,32,4
+18,23,4,Wednesday,Winter,330,16,4,28,"2,39,409",98,no,graduate,0,no,no,0,84,182,25,8
+3,28,4,Wednesday,Winter,179,51,18,38,"2,39,409",98,no,high school,0,yes,no,0,89,170,31,8
+36,23,4,Monday,Winter,118,13,18,50,"2,39,409",98,no,high school,1,yes,no,0,98,178,31,1
+36,13,4,Wednesday,Winter,118,13,18,50,"2,39,409",98,no,high school,1,yes,no,0,98,178,31,120
+26,28,4,Friday,Winter,300,26,13,43,"2,39,409",98,no,high school,2,yes,yes,1,77,175,25,8
+20,28,4,Friday,Winter,260,50,11,36,"2,39,409",98,no,high school,4,yes,no,0,65,168,23,4
+3,28,4,Monday,Winter,179,51,18,38,"2,39,409",98,no,high school,0,yes,no,0,89,170,31,4
+34,11,4,Wednesday,Winter,118,10,10,37,"2,39,409",98,no,high school,0,no,no,0,83,172,28,2
+5,13,5,Monday,Winter,235,20,13,43,"2,46,074",99,no,high school,1,yes,no,0,106,167,38,16
+33,23,5,Wednesday,Winter,248,25,14,47,"2,46,074",99,no,high school,2,no,no,1,86,165,32,2
+13,10,5,Monday,Winter,369,17,12,31,"2,46,074",99,no,high school,3,yes,no,0,70,169,25,8
+22,23,5,Wednesday,Winter,179,26,9,30,"2,46,074",99,no,postgraduate,0,no,no,0,56,171,19,3
+3,28,5,Wednesday,Winter,179,51,18,38,"2,46,074",99,no,high school,0,yes,no,0,89,170,31,4
+10,23,5,Thursday,Winter,361,52,3,28,"2,46,074",99,no,high school,1,yes,no,4,80,172,27,1
+20,28,5,Friday,Winter,260,50,11,36,"2,46,074",99,no,high school,4,yes,no,0,65,168,23,3
+17,11,5,Monday,Winter,179,22,17,40,"2,46,074",99,no,graduate,2,no,yes,0,63,170,22,2
+17,8,5,Monday,Winter,179,22,17,40,"2,46,074",99,no,graduate,2,no,yes,0,63,170,22,3
+9,18,5,Wednesday,Winter,228,14,16,58,"2,46,074",99,no,high school,2,no,no,1,65,172,22,8
+28,25,5,Wednesday,Winter,225,26,9,28,"2,46,074",99,no,high school,1,no,no,2,69,169,24,3
+18,13,5,Friday,Winter,330,16,4,28,"2,46,074",99,no,graduate,0,no,no,0,84,182,25,8
+22,25,5,Monday,Winter,179,26,9,30,"2,46,074",99,no,postgraduate,0,no,no,0,56,171,19,2
+34,28,5,Monday,Winter,118,10,10,37,"2,46,074",99,no,high school,0,no,no,0,83,172,28,1
+1,1,5,Monday,Winter,235,11,14,37,"2,46,074",99,no,postgraduate,1,no,no,1,88,172,29,8
+22,23,5,Wednesday,Winter,179,26,9,30,"2,46,074",99,no,postgraduate,0,no,no,0,56,171,19,3
+34,23,6,Monday,Winter,118,10,10,37,"2,53,957",95,no,high school,0,no,no,0,83,172,28,3
+3,28,6,Monday,Winter,179,51,18,38,"2,53,957",95,no,high school,0,yes,no,0,89,170,31,3
+34,28,6,Tuesday,Winter,118,10,10,37,"2,53,957",95,no,high school,0,no,no,0,83,172,28,2
+28,23,6,Thursday,Winter,225,26,9,28,"2,53,957",95,no,high school,1,no,no,2,69,169,24,4
+20,28,6,Friday,Winter,260,50,11,36,"2,53,957",95,no,high school,4,yes,no,0,65,168,23,4
+3,0,6,Friday,Winter,179,51,18,38,"2,53,957",95,yes,high school,0,yes,no,0,89,170,31,0
+15,13,6,Monday,Winter,291,31,12,40,"2,53,957",95,no,high school,1,yes,no,1,73,171,25,40
+3,28,6,Monday,Winter,179,51,18,38,"2,53,957",95,no,high school,0,yes,no,0,89,170,31,24
+24,28,6,Tuesday,Winter,246,25,16,41,"2,53,957",95,no,high school,0,yes,no,0,67,170,23,3
+3,28,6,Monday,Winter,179,51,18,38,"2,53,957",95,no,high school,0,yes,no,0,89,170,31,4
+5,26,6,Tuesday,Winter,235,20,13,43,"2,53,957",95,no,high school,1,yes,no,0,106,167,38,8
+3,28,6,Monday,Summer,179,51,18,38,"2,53,957",95,no,high school,0,yes,no,0,89,170,31,2
+28,23,6,Wednesday,Summer,225,26,9,28,"2,53,957",95,no,high school,1,no,no,2,69,169,24,2
+36,23,6,Wednesday,Summer,118,13,18,50,"2,53,957",95,no,high school,1,yes,no,0,98,178,31,2
+3,5,6,Wednesday,Summer,179,51,18,38,"2,53,957",95,no,high school,0,yes,no,0,89,170,31,8
+22,21,6,Wednesday,Summer,179,26,9,30,"2,53,957",95,no,postgraduate,0,no,no,0,56,171,19,2
+24,28,6,Friday,Summer,246,25,16,41,"2,53,957",95,no,high school,0,yes,no,0,67,170,23,2
+18,11,6,Tuesday,Summer,330,16,4,28,"2,53,957",95,no,graduate,0,no,no,0,84,182,25,1
+1,13,6,Tuesday,Summer,235,11,14,37,"2,53,957",95,no,postgraduate,1,no,no,1,88,172,29,8
+22,23,7,Thursday,Summer,179,26,9,30,"2,30,290",92,no,postgraduate,0,no,no,0,56,171,19,2
+28,25,7,Thursday,Summer,225,26,9,28,"2,30,290",92,no,high school,1,no,no,2,69,169,24,4
+20,13,7,Friday,Summer,260,50,11,36,"2,30,290",92,no,high school,4,yes,no,0,65,168,23,8
+21,7,7,Monday,Summer,268,11,8,33,"2,30,290",92,no,graduate,0,no,no,0,79,178,25,8
+18,25,7,Friday,Summer,330,16,4,28,"2,30,290",92,no,graduate,0,no,no,0,84,182,25,8
+34,26,7,Friday,Summer,118,10,10,37,"2,30,290",92,no,high school,0,no,no,0,83,172,28,8
+20,26,7,Monday,Summer,260,50,11,36,"2,30,290",92,no,high school,4,yes,no,0,65,168,23,4
+34,28,7,Tuesday,Summer,118,10,10,37,"2,30,290",92,no,high school,0,no,no,0,83,172,28,8
+26,15,7,Monday,Summer,300,26,13,43,"2,30,290",92,no,high school,2,yes,yes,1,77,175,25,8
+2,23,7,Monday,Summer,235,29,12,48,"2,30,290",92,no,high school,1,no,yes,5,88,163,33,1
+24,28,7,Tuesday,Summer,246,25,16,41,"2,30,290",92,no,high school,0,yes,no,0,67,170,23,2
+28,9,7,Tuesday,Summer,225,26,9,28,"2,30,290",92,no,high school,1,no,no,2,69,169,24,112
+3,28,7,Tuesday,Summer,179,51,18,38,"2,30,290",92,no,high school,0,yes,no,0,89,170,31,1
+36,23,7,Friday,Summer,118,13,18,50,"2,30,290",92,no,high school,1,yes,no,0,98,178,31,1
+10,22,7,Friday,Summer,361,52,3,28,"2,30,290",92,no,high school,1,yes,no,4,80,172,27,8
+11,22,7,Monday,Summer,289,36,13,33,"2,30,290",92,no,high school,2,yes,no,1,90,172,30,8
+5,26,7,Monday,Summer,235,20,13,43,"2,30,290",92,no,high school,1,yes,no,0,106,167,38,8
+24,28,7,Tuesday,Summer,246,25,16,41,"2,30,290",92,no,high school,0,yes,no,0,67,170,23,2
+15,28,7,Thursday,Summer,291,31,12,40,"2,30,290",92,no,high school,1,yes,no,1,73,171,25,1
+7,23,7,Thursday,Summer,279,5,14,39,"2,30,290",92,no,high school,2,yes,yes,0,68,168,24,2
+3,25,8,Thursday,Summer,179,51,18,38,"2,49,797",93,no,high school,0,yes,no,0,89,170,31,4
+17,25,8,Monday,Summer,179,22,17,40,"2,49,797",93,no,graduate,2,no,yes,0,63,170,22,1
+24,28,8,Tuesday,Summer,246,25,16,41,"2,49,797",93,no,high school,0,yes,no,0,67,170,23,4
+34,28,8,Tuesday,Summer,118,10,10,37,"2,49,797",93,no,high school,0,no,no,0,83,172,28,4
+11,26,8,Tuesday,Summer,289,36,13,33,"2,49,797",93,no,high school,2,yes,no,1,90,172,30,8
+5,26,8,Tuesday,Summer,235,20,13,43,"2,49,797",93,no,high school,1,yes,no,0,106,167,38,8
+15,28,8,Thursday,Summer,291,31,12,40,"2,49,797",93,no,high school,1,yes,no,1,73,171,25,4
+3,25,8,Monday,Summer,179,51,18,38,"2,49,797",93,no,high school,0,yes,no,0,89,170,31,4
+17,25,8,Tuesday,Summer,179,22,17,40,"2,49,797",93,no,graduate,2,no,yes,0,63,170,22,8
+18,23,8,Thursday,Summer,330,16,4,28,"2,49,797",93,no,graduate,0,no,no,0,84,182,25,16
+1,23,8,Tuesday,Summer,235,11,14,37,"2,49,797",93,no,postgraduate,1,no,no,1,88,172,29,4
+24,28,8,Tuesday,Summer,246,25,16,41,"2,49,797",93,no,high school,0,yes,no,0,67,170,23,1
+34,28,8,Tuesday,Summer,118,10,10,37,"2,49,797",93,no,high school,0,no,no,0,83,172,28,5
+15,28,8,Thursday,Summer,291,31,12,40,"2,49,797",93,no,high school,1,yes,no,1,73,171,25,2
+20,28,8,Monday,Summer,260,50,11,36,"2,49,797",93,no,high school,4,yes,no,0,65,168,23,3
+24,28,9,Tuesday,Summer,246,25,16,41,"2,61,756",87,no,high school,0,yes,no,0,67,170,23,1
+24,28,9,Tuesday,Summer,246,25,16,41,"2,61,756",87,no,high school,0,yes,no,0,67,170,23,1
+34,28,9,Tuesday,Summer,118,10,10,37,"2,61,756",87,no,high school,0,no,no,0,83,172,28,3
+14,23,9,Tuesday,Summer,155,12,14,34,"2,61,756",87,no,high school,2,yes,no,0,95,196,25,2
+15,28,9,Thursday,Summer,291,31,12,40,"2,61,756",87,no,high school,1,yes,no,1,73,171,25,2
+22,23,9,Friday,Summer,179,26,9,30,"2,61,756",87,no,postgraduate,0,no,no,0,56,171,19,8
+33,23,9,Friday,Summer,248,25,14,47,"2,61,756",87,no,high school,2,no,no,1,86,165,32,1
+3,23,9,Monday,Summer,179,51,18,38,"2,61,756",87,no,high school,0,yes,no,0,89,170,31,4
+28,23,9,Wednesday,Summer,225,26,9,28,"2,61,756",87,no,high school,1,no,no,2,69,169,24,1
+22,23,9,Monday,Summer,179,26,9,30,"2,61,756",87,no,postgraduate,0,no,no,0,56,171,19,2
+13,23,9,Tuesday,Spring,369,17,12,31,"2,61,756",87,no,high school,3,yes,no,0,70,169,25,8
+10,22,9,Tuesday,Spring,361,52,3,28,"2,61,756",87,no,high school,1,yes,no,4,80,172,27,8
+32,4,10,Thursday,Spring,289,48,29,49,"2,84,853",91,no,high school,0,no,no,2,108,172,36,1
+25,11,10,Thursday,Spring,235,16,8,32,"2,84,853",91,no,postgraduate,0,no,no,0,75,178,25,3
+24,26,10,Friday,Spring,246,25,16,41,"2,84,853",91,no,high school,0,yes,no,0,67,170,23,8
+32,14,10,Wednesday,Spring,289,48,29,49,"2,84,853",91,no,high school,0,no,no,2,108,172,36,3
+15,28,10,Wednesday,Spring,291,31,12,40,"2,84,853",91,no,high school,1,yes,no,1,73,171,25,2
+34,23,10,Tuesday,Spring,118,10,10,37,"2,84,853",91,no,high school,0,no,no,0,83,172,28,2
+32,23,10,Thursday,Spring,289,48,29,49,"2,84,853",91,no,high school,0,no,no,2,108,172,36,2
+15,23,10,Friday,Spring,291,31,12,40,"2,84,853",91,no,high school,1,yes,no,1,73,171,25,1
+28,23,10,Tuesday,Spring,225,26,9,28,"2,84,853",91,no,high school,1,no,no,2,69,169,24,2
+13,23,10,Tuesday,Spring,369,17,12,31,"2,84,853",91,no,high school,3,yes,no,0,70,169,25,8
+13,23,10,Tuesday,Spring,369,17,12,31,"2,84,853",91,no,high school,3,yes,no,0,70,169,25,3
+28,23,10,Tuesday,Spring,225,26,9,28,"2,84,853",91,no,high school,1,no,no,2,69,169,24,4
+13,26,10,Tuesday,Spring,369,17,12,31,"2,84,853",91,no,high school,3,yes,no,0,70,169,25,8
+3,28,10,Wednesday,Spring,179,51,18,38,"2,84,853",91,no,high school,0,yes,no,0,89,170,31,3
+9,1,10,Wednesday,Spring,228,14,16,58,"2,84,853",91,no,high school,2,no,no,1,65,172,22,1
+15,23,10,Wednesday,Spring,291,31,12,40,"2,84,853",91,no,high school,1,yes,no,1,73,171,25,1
+13,10,10,Thursday,Spring,369,17,12,31,"2,84,853",91,no,high school,3,yes,no,0,70,169,25,8
+28,13,10,Thursday,Spring,225,26,9,28,"2,84,853",91,no,high school,1,no,no,2,69,169,24,1
+13,10,10,Friday,Spring,369,17,12,31,"2,84,853",91,no,high school,3,yes,no,0,70,169,25,8
+28,10,10,Friday,Spring,225,26,9,28,"2,84,853",91,no,high school,1,no,no,2,69,169,24,3
+6,23,10,Monday,Spring,189,29,13,33,"2,84,853",91,no,high school,2,no,no,2,69,167,25,8
+25,6,10,Monday,Spring,235,16,8,32,"2,84,853",91,no,postgraduate,0,no,no,0,75,178,25,8
+33,10,10,Monday,Spring,248,25,14,47,"2,84,853",91,no,high school,2,no,no,1,86,165,32,8
+28,0,10,Monday,Spring,225,26,9,28,"2,84,853",91,yes,high school,1,no,no,2,69,169,24,0
+28,13,10,Tuesday,Spring,225,26,9,28,"2,84,853",91,no,high school,1,no,no,2,69,169,24,3
+3,21,11,Tuesday,Spring,179,51,18,38,"2,68,519",93,no,high school,0,yes,no,0,89,170,31,1
+34,28,11,Wednesday,Spring,118,10,10,37,"2,68,519",93,no,high school,0,no,no,0,83,172,28,3
+18,2,11,Wednesday,Spring,330,16,4,28,"2,68,519",93,no,graduate,0,no,no,0,84,182,25,24
+3,28,11,Friday,Spring,179,51,18,38,"2,68,519",93,no,high school,0,yes,no,0,89,170,31,1
+34,9,11,Tuesday,Spring,118,10,10,37,"2,68,519",93,no,high school,0,no,no,0,83,172,28,8
+11,24,11,Wednesday,Spring,289,36,13,33,"2,68,519",93,no,high school,2,yes,no,1,90,172,30,8
+25,1,11,Friday,Spring,235,16,8,32,"2,68,519",93,no,postgraduate,0,no,no,0,75,178,25,8
+28,23,11,Friday,Spring,225,26,9,28,"2,68,519",93,no,high school,1,no,no,2,69,169,24,4
+10,22,11,Tuesday,Spring,361,52,3,28,"2,68,519",93,no,high school,1,yes,no,4,80,172,27,8
+15,28,11,Wednesday,Spring,291,31,12,40,"2,68,519",93,no,high school,1,yes,no,1,73,171,25,2
+34,13,11,Thursday,Spring,118,10,10,37,"2,68,519",93,no,high school,0,no,no,0,83,172,28,2
+28,14,11,Thursday,Spring,225,26,9,28,"2,68,519",93,no,high school,1,no,no,2,69,169,24,3
+3,28,11,Monday,Spring,179,51,18,38,"2,68,519",93,no,high school,0,yes,no,0,89,170,31,1
+34,23,11,Monday,Spring,118,10,10,37,"2,68,519",93,no,high school,0,no,no,0,83,172,28,8
+34,8,11,Tuesday,Spring,118,10,10,37,"2,68,519",93,no,high school,0,no,no,0,83,172,28,8
+28,23,11,Tuesday,Spring,225,26,9,28,"2,68,519",93,no,high school,1,no,no,2,69,169,24,2
+15,0,11,Tuesday,Spring,291,31,12,40,"2,68,519",93,yes,high school,1,yes,no,1,73,171,25,0
+11,0,11,Wednesday,Spring,289,36,13,33,"2,68,519",93,yes,high school,2,yes,no,1,90,172,30,0
+33,14,11,Thursday,Spring,248,25,14,47,"2,68,519",93,no,high school,2,no,no,1,86,165,32,4
+5,0,11,Thursday,Spring,235,20,13,43,"2,68,519",93,yes,high school,1,yes,no,0,106,167,38,0
+28,23,11,Friday,Spring,225,26,9,28,"2,68,519",93,no,high school,1,no,no,2,69,169,24,2
+13,26,11,Friday,Spring,369,17,12,31,"2,68,519",93,no,high school,3,yes,no,0,70,169,25,8
+10,28,11,Monday,Spring,361,52,3,28,"2,68,519",93,no,high school,1,yes,no,4,80,172,27,2
+3,13,12,Tuesday,Spring,179,51,18,38,"2,80,549",98,no,high school,0,yes,no,0,89,170,31,32
+15,28,12,Wednesday,Spring,291,31,12,40,"2,80,549",98,no,high school,1,yes,no,1,73,171,25,1
+28,23,12,Wednesday,Spring,225,26,9,28,"2,80,549",98,no,high school,1,no,no,2,69,169,24,3
+22,13,12,Friday,Spring,179,26,9,30,"2,80,549",98,no,postgraduate,0,no,no,0,56,171,19,1
+28,23,12,Friday,Spring,225,26,9,28,"2,80,549",98,no,high school,1,no,no,2,69,169,24,3
+28,23,12,Wednesday,Spring,225,26,9,28,"2,80,549",98,no,high school,1,no,no,2,69,169,24,3
+10,14,12,Thursday,Spring,361,52,3,28,"2,80,549",98,no,high school,1,yes,no,4,80,172,27,4
+17,18,12,Friday,Spring,179,22,17,40,"2,80,549",98,no,graduate,2,no,yes,0,63,170,22,2
+5,26,12,Friday,Spring,235,20,13,43,"2,80,549",98,no,high school,1,yes,no,0,106,167,38,8
+12,18,12,Monday,Spring,233,51,1,31,"2,80,549",98,no,graduate,1,yes,no,8,68,178,21,8
+22,13,12,Tuesday,Spring,179,26,9,30,"2,80,549",98,no,postgraduate,0,no,no,0,56,171,19,16
+28,23,12,Tuesday,Spring,225,26,9,28,"2,80,549",98,no,high school,1,no,no,2,69,169,24,2
+28,23,12,Thursday,Spring,225,26,9,28,"2,80,549",98,no,high school,1,no,no,2,69,169,24,3
+28,23,12,Monday,Spring,225,26,9,28,"2,80,549",98,no,high school,1,no,no,2,69,169,24,2
+14,18,12,Tuesday,Autumn,155,12,14,34,"2,80,549",98,no,high school,2,yes,no,0,95,196,25,80
+22,12,1,Monday,Autumn,179,26,9,30,"3,13,532",96,no,postgraduate,0,no,no,0,56,171,19,24
+22,12,1,Thursday,Autumn,179,26,9,30,"3,13,532",96,no,postgraduate,0,no,no,0,56,171,19,16
+17,25,1,Thursday,Autumn,179,22,17,40,"3,13,532",96,no,graduate,2,no,yes,0,63,170,22,2
+17,25,1,Friday,Autumn,179,22,17,40,"3,13,532",96,no,graduate,2,no,yes,0,63,170,22,2
+22,13,1,Monday,Autumn,179,26,9,30,"3,13,532",96,no,postgraduate,0,no,no,0,56,171,19,3
+17,25,1,Wednesday,Autumn,179,22,17,40,"3,13,532",96,no,graduate,2,no,yes,0,63,170,22,2
+32,10,1,Thursday,Autumn,289,48,29,49,"3,13,532",96,no,high school,0,no,no,2,108,172,36,8
+17,18,1,Friday,Autumn,179,22,17,40,"3,13,532",96,no,graduate,2,no,yes,0,63,170,22,3
+22,27,1,Monday,Autumn,179,26,9,30,"3,13,532",96,no,postgraduate,0,no,no,0,56,171,19,2
+14,18,1,Tuesday,Autumn,155,12,14,34,"3,13,532",96,no,high school,2,yes,no,0,95,196,25,8
+22,27,1,Wednesday,Autumn,179,26,9,30,"3,13,532",96,no,postgraduate,0,no,no,0,56,171,19,2
+3,27,1,Wednesday,Autumn,179,51,18,38,"3,13,532",96,no,high school,0,yes,no,0,89,170,31,3
+11,13,1,Wednesday,Autumn,289,36,13,33,"3,13,532",96,no,high school,2,yes,no,1,90,172,30,8
+3,27,1,Thursday,Autumn,179,51,18,38,"3,13,532",96,no,high school,0,yes,no,0,89,170,31,3
+3,27,1,Friday,Autumn,179,51,18,38,"3,13,532",96,no,high school,0,yes,no,0,89,170,31,2
+3,13,2,Tuesday,Autumn,179,51,18,38,"2,64,249",97,no,high school,0,yes,no,0,89,170,31,8
+28,23,2,Tuesday,Autumn,225,26,9,28,"2,64,249",97,no,high school,1,no,no,2,69,169,24,3
+33,1,2,Wednesday,Autumn,248,25,14,47,"2,64,249",97,no,high school,2,no,no,1,86,165,32,8
+3,27,2,Wednesday,Autumn,179,51,18,38,"2,64,249",97,no,high school,0,yes,no,0,89,170,31,2
+28,28,2,Thursday,Autumn,225,26,9,28,"2,64,249",97,no,high school,1,no,no,2,69,169,24,3
+3,27,2,Thursday,Autumn,179,51,18,38,"2,64,249",97,no,high school,0,yes,no,0,89,170,31,2
+22,27,2,Thursday,Autumn,179,26,9,30,"2,64,249",97,no,postgraduate,0,no,no,0,56,171,19,2
+29,28,2,Friday,Autumn,225,15,15,41,"2,64,249",97,no,master and doctor,2,yes,no,2,94,182,28,2
+3,27,2,Friday,Autumn,179,51,18,38,"2,64,249",97,no,high school,0,yes,no,0,89,170,31,2
+12,19,2,Monday,Autumn,233,51,1,31,"2,64,249",97,no,graduate,1,yes,no,8,68,178,21,2
+3,27,2,Monday,Autumn,179,51,18,38,"2,64,249",97,no,high school,0,yes,no,0,89,170,31,2
+28,7,2,Tuesday,Autumn,225,26,9,28,"2,64,249",97,no,high school,1,no,no,2,69,169,24,8
+3,27,2,Wednesday,Autumn,179,51,18,38,"2,64,249",97,no,high school,0,yes,no,0,89,170,31,3
+3,27,2,Thursday,Autumn,179,51,18,38,"2,64,249",97,no,high school,0,yes,no,0,89,170,31,3
+28,25,2,Thursday,Autumn,225,26,9,28,"2,64,249",97,no,high school,1,no,no,2,69,169,24,3
+22,13,2,Thursday,Autumn,179,26,9,30,"2,64,249",97,no,postgraduate,0,no,no,0,56,171,19,2
+17,23,2,Friday,Autumn,179,22,17,40,"2,64,249",97,no,graduate,2,no,yes,0,63,170,22,2
+3,27,2,Friday,Autumn,179,51,18,38,"2,64,249",97,no,high school,0,yes,no,0,89,170,31,3
+12,12,2,Wednesday,Autumn,233,51,1,31,"2,64,249",97,no,graduate,1,yes,no,8,68,178,21,3
+22,27,2,Wednesday,Autumn,179,26,9,30,"2,64,249",97,no,postgraduate,0,no,no,0,56,171,19,2
+3,27,2,Wednesday,Autumn,179,51,18,38,"2,64,249",97,no,high school,0,yes,no,0,89,170,31,2
+3,13,2,Thursday,Autumn,179,51,18,38,"2,64,249",97,no,high school,0,yes,no,0,89,170,31,8
+3,27,2,Friday,Autumn,179,51,18,38,"2,64,249",97,no,high school,0,yes,no,0,89,170,31,2
+14,25,2,Monday,Autumn,155,12,14,34,"2,64,249",97,no,high school,2,yes,no,0,95,196,25,5
+25,25,2,Monday,Autumn,235,16,8,32,"2,64,249",97,no,postgraduate,0,no,no,0,75,178,25,3
+3,27,2,Monday,Autumn,179,51,18,38,"2,64,249",97,no,high school,0,yes,no,0,89,170,31,2
+28,7,2,Monday,Autumn,225,26,9,28,"2,64,249",97,no,high school,1,no,no,2,69,169,24,2
+3,27,2,Tuesday,Autumn,179,51,18,38,"2,64,249",97,no,high school,0,yes,no,0,89,170,31,2
+33,23,2,Tuesday,Autumn,248,25,14,47,"2,64,249",97,no,high school,2,no,no,1,86,165,32,2
+28,25,2,Tuesday,Autumn,225,26,9,28,"2,64,249",97,no,high school,1,no,no,2,69,169,24,2
+3,27,2,Wednesday,Autumn,179,51,18,38,"2,64,249",97,no,high school,0,yes,no,0,89,170,31,2
+3,27,2,Thursday,Autumn,179,51,18,38,"2,64,249",97,no,high school,0,yes,no,0,89,170,31,2
+25,25,2,Friday,Autumn,235,16,8,32,"2,64,249",97,no,postgraduate,0,no,no,0,75,178,25,2
+3,27,3,Monday,Autumn,179,51,18,38,"2,22,196",99,no,high school,0,yes,no,0,89,170,31,2
+33,23,3,Monday,Autumn,248,25,14,47,"2,22,196",99,no,high school,2,no,no,1,86,165,32,2
+9,25,3,Tuesday,Autumn,228,14,16,58,"2,22,196",99,no,high school,2,no,no,1,65,172,22,3
+33,25,3,Tuesday,Autumn,248,25,14,47,"2,22,196",99,no,high school,2,no,no,1,86,165,32,3
+9,12,3,Tuesday,Autumn,228,14,16,58,"2,22,196",99,no,high school,2,no,no,1,65,172,22,112
+3,27,3,Wednesday,Autumn,179,51,18,38,"2,22,196",99,no,high school,0,yes,no,0,89,170,31,2
+28,27,3,Thursday,Autumn,225,26,9,28,"2,22,196",99,no,high school,1,no,no,2,69,169,24,2
+3,27,3,Thursday,Autumn,179,51,18,38,"2,22,196",99,no,high school,0,yes,no,0,89,170,31,3
+28,25,3,Thursday,Autumn,225,26,9,28,"2,22,196",99,no,high school,1,no,no,2,69,169,24,2
+22,27,3,Friday,Autumn,179,26,9,30,"2,22,196",99,no,postgraduate,0,no,no,0,56,171,19,3
+25,25,3,Monday,Autumn,235,16,8,32,"2,22,196",99,no,postgraduate,0,no,no,0,75,178,25,3
+10,19,3,Monday,Autumn,361,52,3,28,"2,22,196",99,no,high school,1,yes,no,4,80,172,27,8
+3,13,3,Tuesday,Autumn,179,51,18,38,"2,22,196",99,no,high school,0,yes,no,0,89,170,31,8
+3,27,3,Wednesday,Autumn,179,51,18,38,"2,22,196",99,no,high school,0,yes,no,0,89,170,31,2
+3,27,3,Thursday,Autumn,179,51,18,38,"2,22,196",99,no,high school,0,yes,no,0,89,170,31,3
+22,27,3,Friday,Autumn,179,26,9,30,"2,22,196",99,no,postgraduate,0,no,no,0,56,171,19,2
+3,10,3,Monday,Autumn,179,51,18,38,"2,22,196",99,no,high school,0,yes,no,0,89,170,31,4
+33,13,3,Monday,Autumn,248,25,14,47,"2,22,196",99,no,high school,2,no,no,1,86,165,32,2
+3,27,3,Monday,Autumn,179,51,18,38,"2,22,196",99,no,high school,0,yes,no,0,89,170,31,3
+28,7,3,Monday,Autumn,225,26,9,28,"2,22,196",99,no,high school,1,no,no,2,69,169,24,8
+3,27,3,Tuesday,Autumn,179,51,18,38,"2,22,196",99,no,high school,0,yes,no,0,89,170,31,2
+11,23,3,Wednesday,Autumn,289,36,13,33,"2,22,196",99,no,high school,2,yes,no,1,90,172,30,8
+9,25,3,Wednesday,Autumn,228,14,16,58,"2,22,196",99,no,high school,2,no,no,1,65,172,22,2
+3,27,3,Wednesday,Autumn,179,51,18,38,"2,22,196",99,no,high school,0,yes,no,0,89,170,31,2
+33,23,3,Thursday,Autumn,248,25,14,47,"2,22,196",99,no,high school,2,no,no,1,86,165,32,3
+3,27,3,Thursday,Autumn,179,51,18,38,"2,22,196",99,no,high school,0,yes,no,0,89,170,31,3
+22,23,3,Friday,Autumn,179,26,9,30,"2,22,196",99,no,postgraduate,0,no,no,0,56,171,19,2
+3,27,3,Friday,Autumn,179,51,18,38,"2,22,196",99,no,high school,0,yes,no,0,89,170,31,3
+3,27,3,Tuesday,Winter,179,51,18,38,"2,22,196",99,no,high school,0,yes,no,0,89,170,31,3
+16,23,3,Wednesday,Winter,118,15,24,46,"2,22,196",99,no,high school,2,yes,yes,0,75,175,25,8
+14,13,3,Wednesday,Winter,155,12,14,34,"2,22,196",99,no,high school,2,yes,no,0,95,196,25,24
+3,27,3,Wednesday,Winter,179,51,18,38,"2,22,196",99,no,high school,0,yes,no,0,89,170,31,3
+3,27,3,Thursday,Winter,179,51,18,38,"2,22,196",99,no,high school,0,yes,no,0,89,170,31,3
+22,13,3,Monday,Winter,179,26,9,30,"2,22,196",99,no,postgraduate,0,no,no,0,56,171,19,2
+11,19,3,Monday,Winter,289,36,13,33,"2,22,196",99,no,high school,2,yes,no,1,90,172,30,104
+13,22,3,Wednesday,Winter,369,17,12,31,"2,22,196",99,no,high school,3,yes,no,0,70,169,25,8
+28,13,4,Monday,Winter,225,26,9,28,"2,46,288",91,no,high school,1,no,no,2,69,169,24,8
+34,10,4,Monday,Winter,118,10,10,37,"2,46,288",91,no,high school,0,no,no,0,83,172,28,8
+10,19,4,Tuesday,Winter,361,52,3,28,"2,46,288",91,no,high school,1,yes,no,4,80,172,27,8
+33,19,4,Wednesday,Winter,248,25,14,47,"2,46,288",91,no,high school,2,no,no,1,86,165,32,8
+6,13,4,Thursday,Winter,189,29,13,33,"2,46,288",91,no,high school,2,no,no,2,69,167,25,8
+22,27,4,Friday,Winter,179,26,9,30,"2,46,288",91,no,postgraduate,0,no,no,0,56,171,19,2
+13,7,4,Monday,Winter,369,17,12,31,"2,46,288",91,no,high school,3,yes,no,0,70,169,25,24
+17,16,4,Tuesday,Winter,179,22,17,40,"2,46,288",91,no,graduate,2,no,yes,0,63,170,22,2
+36,23,4,Tuesday,Winter,118,13,18,50,"2,46,288",91,no,high school,1,yes,no,0,98,178,31,3
+10,23,4,Tuesday,Winter,361,52,3,28,"2,46,288",91,no,high school,1,yes,no,4,80,172,27,2
+34,10,4,Wednesday,Winter,118,10,10,37,"2,46,288",91,no,high school,0,no,no,0,83,172,28,2
+1,22,4,Friday,Winter,235,11,14,37,"2,46,288",91,no,postgraduate,1,no,no,1,88,172,29,8
+22,27,4,Friday,Winter,179,26,9,30,"2,46,288",91,no,postgraduate,0,no,no,0,56,171,19,2
+28,19,4,Monday,Winter,225,26,9,28,"2,46,288",91,no,high school,1,no,no,2,69,169,24,8
+25,16,4,Tuesday,Winter,235,16,8,32,"2,46,288",91,no,postgraduate,0,no,no,0,75,178,25,3
+22,27,4,Friday,Winter,179,26,9,30,"2,46,288",91,no,postgraduate,0,no,no,0,56,171,19,2
+14,28,4,Tuesday,Winter,155,12,14,34,"2,46,288",91,no,high school,2,yes,no,0,95,196,25,4
+28,19,4,Thursday,Winter,225,26,9,28,"2,46,288",91,no,high school,1,no,no,2,69,169,24,8
+36,14,4,Thursday,Winter,118,13,18,50,"2,46,288",91,no,high school,1,yes,no,0,98,178,31,2
+22,27,4,Friday,Winter,179,26,9,30,"2,46,288",91,no,postgraduate,0,no,no,0,56,171,19,2
+1,22,5,Monday,Winter,235,11,14,37,"2,37,656",99,no,postgraduate,1,no,no,1,88,172,29,8
+29,19,5,Wednesday,Winter,225,15,15,41,"2,37,656",99,no,master and doctor,2,yes,no,2,94,182,28,3
+25,28,5,Wednesday,Winter,235,16,8,32,"2,37,656",99,no,postgraduate,0,no,no,0,75,178,25,2
+34,8,5,Wednesday,Winter,118,10,10,37,"2,37,656",99,no,high school,0,no,no,0,83,172,28,3
+5,26,5,Wednesday,Winter,235,20,13,43,"2,37,656",99,no,high school,1,yes,no,0,106,167,38,8
+22,13,5,Thursday,Winter,179,26,9,30,"2,37,656",99,no,postgraduate,0,no,no,0,56,171,19,1
+15,28,5,Thursday,Winter,291,31,12,40,"2,37,656",99,no,high school,1,yes,no,1,73,171,25,2
+29,14,5,Thursday,Winter,225,15,15,41,"2,37,656",99,no,master and doctor,2,yes,no,2,94,182,28,8
+26,19,5,Friday,Winter,300,26,13,43,"2,37,656",99,no,high school,2,yes,yes,1,77,175,25,64
+29,22,5,Friday,Winter,225,15,15,41,"2,37,656",99,no,master and doctor,2,yes,no,2,94,182,28,8
+22,27,5,Friday,Winter,179,26,9,30,"2,37,656",99,no,postgraduate,0,no,no,0,56,171,19,2
+36,23,5,Monday,Winter,118,13,18,50,"2,37,656",99,no,high school,1,yes,no,0,98,178,31,2
+36,5,5,Tuesday,Winter,118,13,18,50,"2,37,656",99,no,high school,1,yes,no,0,98,178,31,3
+34,28,5,Tuesday,Winter,118,10,10,37,"2,37,656",99,no,high school,0,no,no,0,83,172,28,1
+36,0,5,Tuesday,Winter,118,13,18,50,"2,37,656",99,yes,high school,1,yes,no,0,98,178,31,0
+22,27,5,Wednesday,Winter,179,26,9,30,"2,37,656",99,no,postgraduate,0,no,no,0,56,171,19,2
+23,0,5,Wednesday,Winter,378,49,11,36,"2,37,656",99,yes,high school,2,no,yes,4,65,174,21,0
+17,16,5,Friday,Winter,179,22,17,40,"2,37,656",99,no,graduate,2,no,yes,0,63,170,22,1
+14,10,5,Monday,Winter,155,12,14,34,"2,37,656",99,no,high school,2,yes,no,0,95,196,25,48
+25,10,5,Monday,Winter,235,16,8,32,"2,37,656",99,no,postgraduate,0,no,no,0,75,178,25,8
+15,22,5,Wednesday,Winter,291,31,12,40,"2,37,656",99,no,high school,1,yes,no,1,73,171,25,8
+17,10,5,Wednesday,Winter,179,22,17,40,"2,37,656",99,no,graduate,2,no,yes,0,63,170,22,8
+28,6,5,Wednesday,Winter,225,26,9,28,"2,37,656",99,no,high school,1,no,no,2,69,169,24,3
+18,10,5,Thursday,Winter,330,16,4,28,"2,37,656",99,no,graduate,0,no,no,0,84,182,25,8
+25,23,5,Thursday,Winter,235,16,8,32,"2,37,656",99,no,postgraduate,0,no,no,0,75,178,25,2
+15,28,5,Thursday,Winter,291,31,12,40,"2,37,656",99,no,high school,1,yes,no,1,73,171,25,2
+22,27,5,Friday,Winter,179,26,9,30,"2,37,656",99,no,postgraduate,0,no,no,0,56,171,19,2
+10,7,5,Monday,Winter,361,52,3,28,"2,37,656",99,no,high school,1,yes,no,4,80,172,27,8
+14,23,5,Wednesday,Winter,155,12,14,34,"2,37,656",99,no,high school,2,yes,no,0,95,196,25,2
+17,25,5,Friday,Winter,179,22,17,40,"2,37,656",99,no,graduate,2,no,yes,0,63,170,22,8
+14,10,5,Friday,Winter,155,12,14,34,"2,37,656",99,no,high school,2,yes,no,0,95,196,25,8
+28,11,5,Monday,Winter,225,26,9,28,"2,37,656",99,no,high school,1,no,no,2,69,169,24,1
+16,7,6,Wednesday,Winter,118,15,24,46,"2,75,089",96,no,high school,2,yes,yes,0,75,175,25,8
+22,27,6,Wednesday,Winter,179,26,9,30,"2,75,089",96,no,postgraduate,0,no,no,0,56,171,19,3
+34,26,6,Friday,Winter,118,10,10,37,"2,75,089",96,no,high school,0,no,no,0,83,172,28,8
+34,10,6,Wednesday,Winter,118,10,10,37,"2,75,089",96,no,high school,0,no,no,0,83,172,28,8
+23,22,6,Thursday,Winter,378,49,11,36,"2,75,089",96,no,high school,2,no,yes,4,65,174,21,8
+36,19,6,Thursday,Winter,118,13,18,50,"2,75,089",96,no,high school,1,yes,no,0,98,178,31,24
+12,19,6,Friday,Winter,233,51,1,31,"2,75,089",96,no,graduate,1,yes,no,8,68,178,21,8
+22,27,6,Friday,Winter,179,26,9,30,"2,75,089",96,no,postgraduate,0,no,no,0,56,171,19,2
+2,0,6,Monday,Winter,235,29,12,48,"2,75,089",96,yes,high school,1,no,yes,5,88,163,33,0
+21,0,6,Monday,Winter,268,11,8,33,"2,75,089",96,yes,graduate,0,no,no,0,79,178,25,0
+36,19,6,Thursday,Winter,118,13,18,50,"2,75,089",96,no,high school,1,yes,no,0,98,178,31,3
+22,13,6,Thursday,Winter,179,26,9,30,"2,75,089",96,no,postgraduate,0,no,no,0,56,171,19,2
+15,28,6,Thursday,Winter,291,31,12,40,"2,75,089",96,no,high school,1,yes,no,1,73,171,25,2
+22,13,6,Monday,Summer,179,26,9,30,"2,75,089",96,no,postgraduate,0,no,no,0,56,171,19,3
+34,25,6,Monday,Summer,118,10,10,37,"2,75,089",96,no,high school,0,no,no,0,83,172,28,3
+12,22,6,Thursday,Summer,233,51,1,31,"2,75,089",96,no,graduate,1,yes,no,8,68,178,21,8
+34,8,6,Friday,Summer,118,10,10,37,"2,75,089",96,no,high school,0,no,no,0,83,172,28,2
+34,10,6,Wednesday,Summer,118,10,10,37,"2,75,089",96,no,high school,0,no,no,0,83,172,28,3
+12,22,6,Wednesday,Summer,233,51,1,31,"2,75,089",96,no,graduate,1,yes,no,8,68,178,21,3
+5,26,7,Wednesday,Summer,235,20,13,43,"2,64,604",93,no,high school,1,yes,no,0,106,167,38,4
+12,19,7,Friday,Summer,233,51,1,31,"2,64,604",93,no,graduate,1,yes,no,8,68,178,21,2
+9,6,7,Monday,Summer,228,14,16,58,"2,64,604",93,no,high school,2,no,no,1,65,172,22,8
+34,28,7,Monday,Summer,118,10,10,37,"2,64,604",93,no,high school,0,no,no,0,83,172,28,4
+9,6,7,Tuesday,Summer,228,14,16,58,"2,64,604",93,no,high school,2,no,no,1,65,172,22,120
+6,22,7,Tuesday,Summer,189,29,13,33,"2,64,604",93,no,high school,2,no,no,2,69,167,25,16
+34,23,7,Wednesday,Summer,118,10,10,37,"2,64,604",93,no,high school,0,no,no,0,83,172,28,2
+10,22,7,Wednesday,Summer,361,52,3,28,"2,64,604",93,no,high school,1,yes,no,4,80,172,27,8
+28,22,7,Wednesday,Summer,225,26,9,28,"2,64,604",93,no,high school,1,no,no,2,69,169,24,8
+13,13,7,Monday,Summer,369,17,12,31,"2,64,604",93,no,high school,3,yes,no,0,70,169,25,80
+11,14,7,Tuesday,Summer,289,36,13,33,"2,64,604",93,no,high school,2,yes,no,1,90,172,30,8
+1,11,7,Tuesday,Summer,235,11,14,37,"2,64,604",93,no,postgraduate,1,no,no,1,88,172,29,4
+4,0,0,Tuesday,Summer,118,14,13,40,"2,71,219",95,no,high school,1,yes,no,8,98,170,34,0
+8,0,0,Wednesday,Autumn,231,35,14,39,"2,71,219",95,no,high school,2,yes,no,2,100,170,35,0
+35,0,0,Friday,Winter,179,45,14,53,"2,71,219",95,no,high school,1,no,no,1,77,175,25,0

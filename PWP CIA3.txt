@@ -1,0 +1,9 @@
+-The dataset consists of the number of people in an organisation.
+-The number of absences are recorded and resons mentioned are recorded as well.
+
+-The analysis is done to identify the most common reasons why employees take a leave of absence
+and the age group they belong to.
+
+-The major reason for absence is analysed and the age group of the people taking the reason is concluded.
+-The number of children the person has are taken into consideration which could support the analysis.
+
